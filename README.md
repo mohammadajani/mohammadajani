@@ -1,7 +1,7 @@
 
 # Hi, I'm Mohammad Husain A. Ajani! 😎
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohammad-husain-ajani/) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-green)](https://www.instagram.com/mohammed_ajani)
 [![GitHub](https://img.shields.io/github/followers/mohammadajani?style=social)](https://github.com/mohammadajani)
 
@@ -68,7 +68,7 @@ I'm a passionate **Information Security Analyst** with over 3 years of experienc
 ---
 
 ## 📬 Let's Connect!
-- **LinkedIn**: [Connect with me](https://www.linkedin.com)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mohammad-husain-ajani/)
 - **Instagram**: [@Mohammed_ajani](https://www.instagram.com/mohammed_ajani)
 - **Email**: mohammedajani18@gmail.com
 
