@@ -84,4 +84,6 @@ I enjoy solving CTFs and breaking into things (ethically of course)! 🕵️‍�
 1. 📝 Submitted bug bounty reports for a local startup.
 2. 🛠️ Configured SIEM on Azure Cloud for virtual machine monitoring.
 3. 🔍 Identified SQL injection vulnerabilities during VAPT.
+4. ⛳ Worked on CleanBrowse project.
+5. 🚀 Work on SpaceManager project.
 <!--END_SECTION:activity-->
